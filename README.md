@@ -1,1 +1,1 @@
-b
+Rotated the threat image to 45 degrees. Scaled and cropped to fit it inside the baggage. Added the tranaspared threat image to baggage image to make it look like it was already present inside the bag.
